@@ -2,7 +2,6 @@
 
 It's so nice of you stop by! 🙃
 
-<br/>
  <a href="https://twitter.com/thecaffeinedev">
   <img align="left" alt="Prabhat Kumar Sahu| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
@@ -25,7 +24,6 @@ It's so nice of you stop by! 🙃
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/micro-dot-blog.svg" />
 </a>
 
-<br/>
 <br/>
 
 
