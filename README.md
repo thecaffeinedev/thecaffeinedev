@@ -1,14 +1,6 @@
 ### Hi, I'm Prabhat 🙏🏻 🧑‍💻
 
-It's so nice of you stop by! 🙃
 
-
- I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include NodeJS, ReactJS, MongoDB & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
-
-
-While I work in a variety of languages, Python & Javascript has a special place in my 💙.
- 
-Find me around the web 🌏:
 <br/>
 <br/>
  <a href="https://twitter.com/thecaffeinedev">
@@ -35,6 +27,17 @@ Find me around the web 🌏:
 
 <br/>
 <br/>
+
+It's so nice of you stop by! 🙃
+
+
+
+ I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include NodeJS, ReactJS, MongoDB & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
+
+
+While I work in a variety of languages, Python & Javascript has a special place in my 💙.
+ 
+
 
 <!--
 **TheCaffeineDev/thecaffeinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
