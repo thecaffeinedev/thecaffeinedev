@@ -2,6 +2,13 @@
 
 It's so nice of you stop by! 🙃
 
+
+ I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include NodeJS, ReactJS, MongoDB & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
+
+
+While I work in a variety of languages, Python & Javascript has a special place in my 💙.
+ 
+Find me around the web 🌏:
 <br/>
  <a href="https://twitter.com/thecaffeinedev">
   <img align="left" alt="Prabhat Kumar Sahu| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,16 +34,6 @@ It's so nice of you stop by! 🙃
 
 <br/>
 <br/>
- I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include NodeJS, ReactJS, MongoDB & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
-
-
-While I work in a variety of languages, Python & Javascript has a special place in my 💙.
- 
-Find me around the web 🌏:
-
-- Personal Blog :<a href="https://thecodemonk.in/">https://thecodemonk.in/</a> 📹 ✍🏻
-- Twitter : <a href="https://twitter.com/thecaffeinedev"> Twitter</a> 💡
-- Instagram :<a href="https://www.instagram.com/thecaffeinedev/">Instagram</a> 📷
 
 <!--
 **TheCaffeineDev/thecaffeinedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
