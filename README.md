@@ -1,6 +1,5 @@
 ### Hi, I'm Prabhat 🙏🏻 🧑‍💻
 
-It's so nice of you stop by! 🙃
 
  <a href="https://twitter.com/thecaffeinedev">
   <img align="left" alt="Prabhat Kumar Sahu| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,6 +24,7 @@ It's so nice of you stop by! 🙃
 </a>
 
 <br/>
+It's so nice of you stop by! 🙃
 <br/>
 
 
