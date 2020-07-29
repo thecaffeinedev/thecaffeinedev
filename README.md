@@ -30,7 +30,7 @@ It's so nice of you stop by! 🙃
 <br/>
 
 
- I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include NodeJS, ReactJS, MongoDB & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
+ I am a Software Engineer 💻. I have had experience working with various technologies like ML and Full Stack Web Developement. Some technology I enjoy working  with include Django, MERNS Stack & PostgreSQL 📼, in ML (Tensorflow, PyTorch, OpenCV..etc) 🖥.
 
 
  
