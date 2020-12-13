@@ -2,25 +2,27 @@
 
 
  <a href="https://twitter.com/thecaffeinedev">
-  <img align="left" alt="Prabhat Kumar Sahu| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Prabhat Kumar Sahu| Twitter" width="22px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/twitter.png" />
  </a>
+
 <a href="https://www.linkedin.com/in/prabhat-kumar-sahu-b9a53674/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="http://t.me/thecaffeinedev">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
 <a href="https://www.instagram.com/thecaffeinedev/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/instagram.png" />
 </a>
-<a href="https://www.reddit.com/user/thecaffeinedev">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+
+
+<a href="http://t.me/thecaffeinedev">
+  <img align="left" alt="Telegram" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/telegram.png" />
 </a>
+
 <a href="https://www.quora.com/profile/Prabhat-Kumar-Sahu-16">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+  <img align="left" alt="Leetcode" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/quora.png" />
 </a>
 <a href="https://thecodemonk.in/">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/micro-dot-blog.svg" />
+  <img align="left" alt=" Personal | Website" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/code.png" />
 </a>
 
 <br/>
