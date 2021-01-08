@@ -9,7 +9,7 @@
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
-<a href="https://www.instagram.com/thecaffeinedev/">
+<a href="https://www.instagram.com/caffeinedev/">
   <img align="left" alt="Instagram" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/instagram.png" />
 </a>
 
