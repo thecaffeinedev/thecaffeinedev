@@ -14,10 +14,6 @@
 </a>
 
 
-<a href="http://t.me/thecaffeinedev">
-  <img align="left" alt="Telegram" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/telegram.png" />
-</a>
-
 <a href="https://www.quora.com/profile/Prabhat-Kumar-Sahu-16">
   <img align="left" alt="Leetcode" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/quora.png" />
 </a>
