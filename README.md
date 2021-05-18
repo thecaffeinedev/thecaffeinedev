@@ -17,7 +17,7 @@
 <a href="https://www.quora.com/profile/Prabhat-Kumar-Sahu-16">
   <img align="left" alt="Leetcode" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/quora.png" />
 </a>
-<a href="https://thecodemonk.in/">
+<a href="http://iprabhat.dev/">
   <img align="left" alt=" Personal | Website" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/code.png" />
 </a>
 
