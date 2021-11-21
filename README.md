@@ -19,13 +19,11 @@
 </a>
 
 <br/>
-<br/>
-It's so nice of you stop by! 🙃
-<br/>
+
 <br/>
 
 
-A Software Engineer 💻 with interests in Python, Machine Learning, Django, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
+A Software Engineer 💻  with interests in Python, Machine Learning, Django, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
 
  
 <br />
