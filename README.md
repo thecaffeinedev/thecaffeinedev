@@ -25,8 +25,7 @@ It's so nice of you stop by! 🙃
 <br/>
 
 
- I am a Software Engineer by profession 💻. I have had experience working with various technologies like ML and Full Stack Web Developement.
-
+A Software Engineer 💻 with interests in Python, Machine Learning, Django, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
 
  
 <br />
