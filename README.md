@@ -6,7 +6,7 @@
  </a>
 
 <a href="https://www.linkedin.com/in/prabhat-kumar-sahu-b9a53674/">
-  <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="LinkedIn" width="21px" src="https://github.com/TheCaffeineDev/thecaffeinedev/blob/master/assets/linkedIn.png" />
 </a>
 
 <a href="https://www.instagram.com/caffeinedev/">
