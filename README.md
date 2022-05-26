@@ -23,7 +23,7 @@
 <br/>
 
 
-A Software Engineer 💻  with interests in Python, ML, Django, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
+A Software Engineer 💻  with interests in Python, ML, Go,Docker, Kubernetes. Drop me a mail, if you want to get in touch.
 
  
 <br />
