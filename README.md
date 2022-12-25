@@ -1,8 +1,5 @@
 ### Hi, I'm Prabhat 👋 
 
-
-<br/>
-
 I’m a software engineer 🧑🏻‍💻 by profession , who enjoys building things. 
 
 
