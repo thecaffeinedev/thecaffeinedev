@@ -1,6 +1,6 @@
 ### Hi, I'm Prabhat 👋 
 
-I’m a software engineer 🧑🏻‍💻 by profession, working mostly on backend infrastructure. I mostly write Python and Go. 
+I’m a software engineer 🧑🏻‍💻 by profession, working mostly on backend infrastructure. 
 
 
 <h4>📫 How to reach me</h4>
