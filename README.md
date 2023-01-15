@@ -1,6 +1,6 @@
 ### Hi, I'm Prabhat 👋 
 
-I’m a ML software engineer 🧑🏻‍💻 by profession, but lately I've been working mostly in backend infrastructure. 
+I’m a ML engineer 🧑🏻‍💻 by profession, but lately I've been working mostly in backend infrastructure. 
 
 
 
