@@ -1,6 +1,6 @@
 ### Hi, I'm Prabhat 👋 
 
-Hobbyist programmer tinkering with backend & distributed systems. Building things, breaking things, learning things (repeat) . Open to collab & fun!
+Hobbyist programmer tinkering with backend & distributed systems.
 
 
 <h4>📫 How to reach me</h4>
